@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=800&color=4FACFE&center=true&vCenter=true&width=550&height=30&lines=Data%20Science%20Student%20%40%20Harkat%20Negeri%20University;Exploring%20Machine%20Learning%20%26%20DuckDB%2Fdbt%20Pipelines;%22Life%20is%20full%20of%20mysteries.%22" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=800&color=4FACFE&center=true&vCenter=true&width=550&height=30&lines=Data%20Science%20Student%20%40%20Harkat%20Negeri%20University;Exploring%20Machine%20Learning%20%26%20Pipelines;%22Life%20is%20full%20of%20mysteries.%22" alt="Subtitle Typing SVG" />
 </p>
 
 <p align="center">
