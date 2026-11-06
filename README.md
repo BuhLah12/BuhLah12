@@ -20,17 +20,16 @@
 
 <div align="center">
 
-  ### Languages & Core Databases
+  ### Languages & Tools
   <p>
     <a href='https://www.python.org'><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><a/>
-    <a href='https://www.postgresql.org/'><img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <a href='https://anaconda.org/'><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   </p>
 
   ### Analytics & Data Engineering
   <p>
     <a href='https://pandas.pydata.org/'><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><a/>
      <a href='https://numpy.org/'><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><a/>
-    <a href='https://anaconda.org/'><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   </p>
 
   ### Visualization & Machine Learning
