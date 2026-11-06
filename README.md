@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BuhLah12&label=PROFILE+VIEWS&color=00F2FE&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/LOCATION-TEGAL%2C%20INDONESIA-4FACFE?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href='https://maps.app.goo.gl/uHkoDw1tNjzTE5jV6'><img src="https://img.shields.io/badge/LOCATION-TEGAL%2C%20INDONESIA-4FACFE?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -23,9 +22,8 @@
 
   ### Languages & Core Databases
   <p>
-    <a href='https://www.python.org'><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> </a>
-    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <a href='https://www.python.org'><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><a/>
+    <a href='https://www.python.org'><img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
 
   ### Analytics & Data Engineering
