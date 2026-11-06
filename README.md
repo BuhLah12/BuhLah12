@@ -1,6 +1,6 @@
 <!-- HEADER BANNER TERMINAL ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=%3C%2F%3E%20HI%2C%20I'M%20HAIDAR%20LUTHFIKOSASIH;DATA%20SCIENCE%20%26%20ANALYTICS%20ENGINEER;BUILDING%20PREDICTIVE%20PIPELINES" alt="Header Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&height=50&lines=HI%2C%20I'M%20HAIDAR%20LUTHFI%20KOSASIH;DATA%20SCIENCE%20%26%20ANALYTICS%20ENGINEER;BUILDING%20PREDICTIVE%20PIPELINES" alt="Header Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,14 +23,14 @@
   ### Languages & Core Databases
   <p>
     <a href='https://www.python.org'><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><a/>
-    <a href='https://www.python.org'><img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <a href='https://www.postgresql.org/'><img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
 
   ### Analytics & Data Engineering
   <p>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <a href='https://pandas.pydata.org/'><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><a/>
+     <a href='https://numpy.org/'><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><a/>
+    <a href='https://anaconda.org/'><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   </p>
 
   ### Visualization & Machine Learning
