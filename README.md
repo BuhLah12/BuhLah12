@@ -72,7 +72,7 @@
 ## ⚡ Mindset & Connectivity
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Analytic Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Analyst Quote" />
 </div>
 
 <br />
